@@ -1,0 +1,14 @@
+# Ambiente virtual / cache
+.venv/
+__pycache__/
+
+# IDE
+.idea/
+
+# Dados (não versionar)
+data/raw/
+data/processed/
+
+# (opcional) arquivos do sistema
+.DS_Store
+Thumbs.db
