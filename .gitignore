@@ -12,3 +12,9 @@ data/processed/
 # (opcional) arquivos do sistema
 .DS_Store
 Thumbs.db
+
+.venv/
+__pycache__/
+.idea/
+data/raw/
+data/processed/
